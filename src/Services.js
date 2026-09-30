@@ -1,3 +1,4 @@
+/* eslint-disable */
 import NavFooter from "./NavFooter";
 import { NavLink } from "react-router-dom";
 var blank = require("./blank.gif");

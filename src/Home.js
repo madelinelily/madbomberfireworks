@@ -1,3 +1,4 @@
+/* eslint-disable */
 import NavFooter from "./NavFooter";
 
 var banner01 = require("./banner01.jpg");

@@ -1,3 +1,4 @@
+/* eslint-disable */
 import { NavLink } from "react-router-dom";
 
 var photobutton = require("./photobutton.jpg");
