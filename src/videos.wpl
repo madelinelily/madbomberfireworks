@@ -1,0 +1,15 @@
+<?wpl version="1.0"?>
+<smil>
+    <head>
+        <meta name="Generator" content="Microsoft Windows Media Player -- 10.0.0.4058"/>
+        <title>videos</title>
+    </head>
+    <body>
+        <seq>
+            <media src="\\knserver\Text\HTML\madbomber\wmv\wicker3rd.wmv"/>
+            <media src="\\knserver\Text\HTML\madbomber\wmv\wicker4th.wmv"/>
+            <media src="\\knserver\Text\HTML\madbomber\wmv\wicker1st_0001.wmv"/>
+            <media src="\\knserver\Text\HTML\madbomber\wmv\wicker2nd.wmv"/>
+        </seq>
+    </body>
+</smil>

@@ -1,0 +1,19 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<script type="text/javascript" src="swfobject.js"></script>
+</head>
+<body>
+<script type="text/javascript" src="http://www.jeroenwijering.com/embed/swfobject.js"></script>
+ 
+<div id="player">This text will be replaced</div>
+ 
+<script type="text/javascript">
+var so = new SWFObject('http://www.madbomberfireworks.com/player-viral.swf','mpl','320','240','9');
+so.addParam('allowscriptaccess','always');
+so.addParam('allowfullscreen','true');
+so.addParam('flashvars','&author=Mad Bomber Fireworks&description=Enjoy our show!&file=http://www.madbomberfireworks.com/playlist.xml&backcolor=000000&frontcolor=ffffff&playlistsize=320&streamer=lighttpd&playlist=over');
+so.write('player');
+</script>
+</body>
+</html>
