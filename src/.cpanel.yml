@@ -1,4 +1,4 @@
-    ---
+---
 deployment:
   tasks:
     - export DEPLOYPATH=/home/failedf5/public_html/
