@@ -28,15 +28,11 @@ function Gallery(){
             <td height="12" colspan="6" valign="top" bgcolor="#000000"><div align="center"><img src={hline} width="650" height="1"/></div></td>
             </tr>
         <tr bgcolor="E54C00">
-            <td height="29" colspan="6" valign="top" bgcolor="#000000"><div align="center"></div>      <div align="center"><font size="3"><em><font color="#FF0000"><strong><font face="Verdana, Arial, Helvetica, sans-serif">We
-            make every show a work of art.</font></strong></font></em></font></div></td>
-        </tr>
-        <tr bgcolor="E54C00">
             <td height="12" colspan="6" valign="top" bgcolor="#000000"><div align="center"><font size="3"><em><font color="#FF0000"><img src={hline} width="650" height="1"/></font></em></font></div></td>
         </tr>
         <tr bgcolor="E54C00">
             <td height="39" colspan="6" bgcolor="#000000"><div align="center"><font color="#FFFFFF" size="2" face="Verdana, Arial, Helvetica, sans-serif">
-                TODO:EMBED IMAGES HERE</font></div></td>
+                UNDER CONSTRUCTION</font></div></td>
         </tr>
         <tr bgcolor="E54C00">
             <td width="50" bgcolor="#000000"><div align="left"><img src={blank} width="50" height="12"/></div></td>

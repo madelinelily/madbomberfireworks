@@ -22,8 +22,7 @@ function Services() {
                 <td height="12" colspan="6" valign="top" bgcolor="#000000"><div align="center"><img src="hline.jpg" width="650" height="1"/></div></td>
                 </tr>
             <tr bgcolor="E54C00">
-                <td height="29" colspan="6" valign="top" bgcolor="#000000"><div align="center"></div>      <div align="center"><font size="3"><em><font color="#FF0000"><strong><font face="Verdana, Arial, Helvetica, sans-serif">We
-                make every show a work of art.</font></strong></font></em></font></div></td>
+                
             </tr>
             <tr bgcolor="E54C00">
                 <td height="12" colspan="6" valign="top" bgcolor="#000000"><div align="center"><font size="3"><em><font color="#FF0000"><img src="hline.jpg" width="650" height="1"/></font></em></font></div></td>
@@ -44,12 +43,13 @@ function Services() {
                     Graduations<br/>
                     Conferences<br/>
                     Athletic Events<br/>
+                    Air Shows<br/>
                     Homecomings</strong><br/>
                 </font></div></td>
                 <td bgcolor="#000000"><div align="center"><img src={fw01} width="175" height="178"/></div></td>
                 <td height="111" colspan="2" bgcolor="#000000"><div align="center"><font color="#AC0605" size="2" face="Verdana, Arial, Helvetica, sans-serif"></font></div>      
                 <div align="left"><font color="#CCCCCC" size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>Mad
-                Bomber is not just another fireworks company. Over 17+ years of experience,
+                Bomber is not just another fireworks company. Over 35+ years of experience,
                 proven techniques and advanced technology, we excel in creating shows
                 that keep your spectators excited. <br/>
                 <br/>

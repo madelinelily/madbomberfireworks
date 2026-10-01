@@ -27,10 +27,6 @@ function Faq(){
                 <td height="12" colspan="4" valign="top" bgcolor="#000000"><div align="center"><img src={hline} width="650" height="1"/></div></td>
                 </tr>
             <tr bgcolor="E54C00">
-                <td height="29" colspan="4" valign="top" bgcolor="#000000"><div align="center"></div>      <div align="center"><font size="3"><em><font color="#FF0000"><font face="Verdana, Arial, Helvetica, sans-serif"><strong>We
-                make every show a work of art.</strong></font></font></em></font></div></td>
-            </tr>
-            <tr bgcolor="E54C00">
                 <td height="12" colspan="4" valign="top" bgcolor="#000000"><div align="center"><font size="3"><em><font color="#FF0000"><img src={hline} width="650" height="1"/></font></em></font></div></td>
             </tr>
             <tr bgcolor="E54C00">
@@ -142,8 +138,8 @@ function Faq(){
                 <td height="66" colspan="2" valign="top" bgcolor="#000000"><blockquote>
                 <blockquote>
                     <p><font color="#FFFFFF" size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>A.
-                        A display may start as low as $3000.00 and go up to ??. Most towns,
-                        villages, cities and park districts range between $5000.00 to $20,000.00
+                        A display may start as low as $5000.00 and go up to ??. Most towns,
+                        villages, cities and park districts range between $10,000.00 to $60,000.00
                         dollars. Give us a call we would be glad to work with you to bring
                         an exciting pyrotechnic display for your event.</strong></font></p>
                 </blockquote>
@@ -157,18 +153,15 @@ function Faq(){
             <tr bgcolor="E54C00">
                 <td height="152" colspan="2" valign="top" bgcolor="#000000"><p><font color="#FFFFFF" size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong><img src={faqs03} width="150" height="150" hspace="20" align="left"/>A.
                         To start you need to be at least eighteen (18) years old. Then contact
-                        us by email at <a href="mailto:info@madbomberfireworks.com">info@madbomberfireworks.com.</a> &nbsp;&nbsp;Include
+                        us by email at <a href="mailto:randy@madbomberfireworks.com">randy@madbomberfireworks.com.</a> &nbsp;&nbsp;Include
                         your name, phone number, area you live, and a little information
                         about yourself. We will then contact you to fill out an application
                         and necessary forms for the ATF. Upon the approval of the ATF you
                         could start your training. </strong></font></p>
                 </td>
             </tr>
-            <tr bgcolor="E54C00">
+            <tr bgcolor="#000000">
                 <td valign="top" bgcolor="#000000">&nbsp;</td>
-                <td colspan="2" valign="top" bgcolor="#000000"><div align="center"><font color="#FFFF00" size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong>If
-                    your question wasn't answered here please email us at </strong></font><font color="#FFFFFF" size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong> <a href="mailto:info@madbomberfireworks.com">info@madbomberfireworks.com.</a></strong></font></div></td>
-                <td height="19" bgcolor="#000000">&nbsp;</td>
             </tr>
             <tr bgcolor="E54C00">
                 <td valign="top" bgcolor="#000000">&nbsp;</td>

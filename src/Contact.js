@@ -25,10 +25,6 @@ function Contact(){
       <td height="12" colspan="7" valign="top" bgcolor="#000000"><div align="center"><img src={hline} width="650" height="1"/></div></td>
     </tr>
   <tr bgcolor="E54C00">
-    <td height="29" colspan="7" valign="top" bgcolor="#000000"><div align="center"></div>      <div align="center"><font size="3"><em><font color="#FF0000"><strong><font face="Verdana, Arial, Helvetica, sans-serif">We
-    make every show a work of art.</font></strong></font></em></font></div></td>
-  </tr>
-  <tr bgcolor="E54C00">
     <td height="12" colspan="7" valign="top" bgcolor="#000000"><div align="center"><font size="3"><em><font color="#FF0000"><img src={hline} width="650" height="1"/></font></em></font></div></td>
   </tr>
   <tr bgcolor="E54C00">
@@ -42,8 +38,7 @@ function Contact(){
               847-464-1442<br/>
               Fax: 847-464-1388<br/>
               <a href="mailto:dan@madbomberfireworks.com">Email: Dan Miller</a><br/>
-              <a href="mailto:mark@madbomberfireworks.com">Email: Mark Lowe
-              </a></font></strong></font></p>
+              </font></strong></font></p>
     </div>
     </td>
     <td height="151" colspan="3" bgcolor="#000000"><div align="center">
@@ -58,21 +53,9 @@ function Contact(){
   <br/>
   <a href="mailto:andy@madbomberfireworks.com">Email: Andy James</a><br/>
   <a href="mailto:randy@madbomberfireworks.com">Email: Randy McCasland</a><br/>
-  <a href="mailto:tim@madbomberfireworks.com">Email: Tim Walczak</a><br/>
   <a href="mailto:kelley@madbomberfireworks.com">Email: Kelley Hatfield-Turley</a></font></strong></font></p>
       </div>
     </td>
-    <td width="203" bgcolor="#000000">      <div align="center">
-      <p><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"><strong><u>CLEVELAND</u></strong></font><font color="#FFFFFF" size="2" face="Verdana, Arial, Helvetica, sans-serif"><strong><br/>
-    30600 Lorain Rd<br/>
-    North Olmstead, OH 44070 </strong></font> </p>
-      <p><font color="#FFFFFF" face="Verdana, Arial, Helvetica, sans-serif"><strong><font size="2">Phone:
-                  440-734-7697<br/>
-      Fax: 440-734-1252</font></strong></font><font color="#FFFFFF">
-      <br/>
-      <br/>
-      <a href="mailto:rick@madbomberfireworks.com"><strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif">Email: Rick Hayden</font></strong></a></font></p>
-    </div></td>
     <td width="83" bgcolor="#000000"><img src={blank} width="80" height="12"/></td>
   </tr>
   <tr bgcolor="E54C00">
@@ -86,9 +69,7 @@ function Contact(){
   Phone: 317-417-1776 <br/>
   <a href="mailto:marty@madbomberfireworks.com">Email: Marty Miller</a> </font></strong></font></div>
     </font>
-      <p align="center"><font color="#FFFFFF"><strong><font size="2" face="Verdana, Arial, Helvetica, sans-serif"><u>Milwaukee</u><br/>
-  Phone: 262-369-0743<br/>
-  <a href="mailto:Sales@madbomberfireworks.com">Email: Sales Milwaukee </a></font></strong></font></p></td>
+  </td>
     <td height="31" bgcolor="#000000"><img src={contact02} width="200" height="200"/></td>
     <td height="31" bgcolor="#000000">&nbsp;</td>
   </tr>
