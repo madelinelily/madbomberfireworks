@@ -1,0 +1,5 @@
+    ---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/failedf5/public_html/
+    - /home/failedf5/repos/madbomberfireworks -R $DEPLOYPATH
